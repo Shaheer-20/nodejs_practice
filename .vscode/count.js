@@ -5,6 +5,6 @@ function count(fst,lst){
     }
     return sum ;
 }
-var answer=count(1,111);
+var answer=count(1,101);
 console.log(answer);
 
